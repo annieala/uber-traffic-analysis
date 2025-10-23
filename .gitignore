@@ -1,0 +1,34 @@
+# Large data files
+*.csv
+*.zip
+Uber-Jan-Feb-FOIL.csv
+Uber-small.csv
+uber-raw-data-janjune-15.csv.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Images
+*.png
+*.jpg
+*.jpeg
+
+# JMeter
+apache-jmeter*/
+*.jmx
